@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+position: absolute;
+bottom: 14em;
+}
+
+button text {
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+header {
+  margin-top: 7em;
+}
+
+main i {
+  
+  margin-bottom: 20px;
+  margin-top: 45px;
+}
+
+img {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border-radius: 3%;
+}
